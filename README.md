@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+**Maintaining this GitHub profile to document my coding journey and share my learnings as I delve deeper into data science and engineering.**
 <!--
 **bhargaviHQ/bhargaviHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Technical Skills:**
+
+* **Data Engineering** 🛠️: Data modeling, Data warehousing, System design, Hadoop, MapReduce, Spark, Hive, Kafka, Airflow, Kubernetes, AWS (S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, Azure (Data Studio, Data Lake Storage, Data Factory), Power BI, Tableau, Looker, BigQuery, CI/CD, Adobe Analytics.
+* **Programming and Statistical Modeling** 📊:  Data mining, Data analysis, Machine Learning, A/B testing, Predictive modeling, Time series analysis, Python (TensorFlow, PyTorch, Scikit-learn), Java, SQL, R, NoSQL, LaTeX, Excel.
