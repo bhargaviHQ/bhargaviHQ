@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 **Technical Skills:**
 
-* **Data Engineering** 🛠️: Data modeling, Data warehousing, System design, Hadoop, MapReduce, Spark, Hive, Kafka, Airflow, Kubernetes, AWS (S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, Azure (Data Studio, Data Lake Storage, Data Factory), Power BI, Tableau, Looker, BigQuery, CI/CD, Adobe Analytics.
-* **Programming and Statistical Modeling** 📊:  Data mining, Data analysis, Machine Learning, A/B testing, Predictive modeling, Time series analysis, Python (TensorFlow, PyTorch, Scikit-learn), Java, SQL, R, NoSQL, LaTeX, Excel.
+* **Data Engineering** 🛠️: Data modeling, Data Warehousing, System Design, Hadoop, MapReduce, Spark, Hive, HBase, Kafka, Airflow, Kubernetes, Docker, AWS (S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, BigQuery, Azure (Data Studio, Data Lake Storage, Data Factory), Power BI, Tableau, Looker, CI/CD.
+* **Programming and Statistical Modeling** 📊:  Python (TensorFlow, PyTorch, Scikit-learn), Java, Scala, ReactJS, PostgreSQL, SQL, R, NoSQL, Excel, Jupyter Notebooks, A/B testing, Predictive Modeling, Time Series Analysis.
