@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 
 GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhargaviHQ&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://profile-counter.glitch.me/{bhargaviHQ}/count.svg)
+
