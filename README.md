@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * **Data Engineering** 🛠️: Data modeling, Data Warehousing, System Design, Hadoop, MapReduce, Spark, Hive, HBase, Kafka, Airflow, Kubernetes, Docker, AWS (S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, BigQuery, Azure (Data Studio, Data Lake Storage, Data Factory), Power BI, Tableau, Looker, CI/CD.
 * **Programming and Statistical Modeling** 📊:  Python (TensorFlow, PyTorch, Scikit-learn), Java, Scala, ReactJS, PostgreSQL, SQL, R, NoSQL, Excel, Jupyter Notebooks, A/B testing, Predictive Modeling, Time Series Analysis.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargaviHQ&show_icons=true&theme=dark&hide=issues,contribs))](https://github.com/bhargaviHQ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargaviHQ&layout=compact)](https://github.com/bhargaviHQ)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargaviHQ&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/bhargaviHQ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargaviHQ&layout=compact)](https://github.com/bhargaviHQ)
 
 GitHub Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=bhargaviHQ&theme=discord)](https://github.com/bhargaviHQ)
