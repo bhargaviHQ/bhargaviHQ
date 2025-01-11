@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargaviHQ&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/bhargaviHQ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargaviHQ&layout=compact)](https://github.com/bhargaviHQ)
 
-GitHub Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhargaviHQ&theme=discord)](https://github.com/bhargaviHQ)
 ![Visitor Count](https://profile-counter.glitch.me/{bhargaviHQ}/count.svg)
 
