@@ -1,6 +1,4 @@
-## Hi there 👋
-
-**Maintaining this GitHub profile to document my coding journey and learning experiences as I build my data science and engineering skills.**
+**Sharing my data science and machine learning projects as I learn.**
 <!--
 **bhargaviHQ/bhargaviHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
