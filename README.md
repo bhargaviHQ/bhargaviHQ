@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - <ins>Machine Learning & Statistical Modeling:</ins> Supervised Learning, Unsupervised Learning, Regression, Classification, Time Series, Deep Learning, Reinforcement learning, NLP, Model Tuning, Optimization
 - <ins>Data Visualization & Cloud:</ins> AWS, GCP, Azure, Power BI, Tableau, Looker, Python(Matplotlib, Seaborn, Plotly), Streamlit
   
+**Applied Data Science📈**:
+- <ins>Data-Driven Decision Making:</ins> Predictive Analytics, Business Insights, Model Refinement, Causal Inference and Estimation
+- <ins>Statistical Analysis:</ins> Hypothesis Testing, A/B Testing, Experimental Design, Predictive Modeling, Cross-Validation, Bias-Variance Tradeoff
+
 **Data Engineering** 🛠️: Data modeling, Data Warehousing, System Design, Hadoop, MapReduce, Spark, Hive, HBase, Kafka, Airflow, Kubernetes, Docker, AWS (S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, BigQuery
 
 **Programming and Statistical Modeling** 📊:  Python (TensorFlow, PyTorch, Scikit-learn), Java, Scala, ReactJS, PostgreSQL, SQL, R, NoSQL, Excel, Jupyter Notebooks, A/B testing, Predictive Modeling, Time Series Analysis.
-  
-**Applied Data Science🛠️**:
-- <ins>Data-Driven Decision Making:</ins> Predictive Analytics, Business Insights, Model Refinement, Causal Inference and Estimation
-- <ins>Statistical Analysis:</ins> Hypothesis Testing, A/B Testing, Experimental Design, Predictive Modeling, Cross-Validation, Bias-Variance Tradeoff
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargaviHQ&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/bhargaviHQ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargaviHQ&layout=compact)](https://github.com/bhargaviHQ)
