@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - <ins>Data-Driven Decision Making:</ins> Predictive Analytics, Business Insights, Model Refinement, Causal Inference and Estimation
 - <ins>Statistical Analysis:</ins> Hypothesis Testing, A/B Testing, Experimental Design, Predictive Modeling, Cross-Validation, Bias-Variance Tradeoff
 
-**Data Engineering** 🛠️: Data modeling, Data Warehousing, System Design, Hadoop, MapReduce, Spark, Hive, HBase, Kafka, Airflow, Kubernetes, Docker, AWS (Glue, S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, BigQuery
+**Data Engineering** 🛠️: Data modeling, Data Warehousing, System Design, Hadoop, MapReduce, Spark, Hive, HBase, Kafka, Airflow, Kubernetes, Docker, AWS (Glue, EMR, S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, BigQuery
 
 
 
