@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 **Data Engineering** 🛠️: Data modeling, Data Warehousing, System Design, Hadoop, MapReduce, Spark, Hive, HBase, Kafka, Airflow, Kubernetes, Docker, AWS (Glue, EMR, S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, BigQuery
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargaviHQ&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/bhargaviHQ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargaviHQ&layout=compact)](https://github.com/bhargaviHQ)
 
 ![Visitor Count](https://profile-counter.glitch.me/{bhargaviHQ}/count.svg)
