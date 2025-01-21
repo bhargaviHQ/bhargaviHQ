@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ## Project Index
 
 ### Deep Learning & RL Projects
-- [RAG LLM Assistant for E-Commerce Data Using Snowflake Cortex](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortexhttp:// "RAG LLM Assistant for E-Commerce Data Using Snowflake Cortex") 
-- [NLP Sentiment Analysis with Web Scraping of Articles from TechCrunch](http:https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch// "NLP Sentiment Analysis with Web Scraping of Articles from TechCrunch") 
+- [RAG LLM Assistant for E-Commerce Data Using Snowflake Cortex](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex) 
+- [NLP Sentiment Analysis with Web Scraping of Articles from TechCrunch](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch) 
 - [Acrobot DQN](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/CS6700-Reinforcement-Learning/Assignments/Acrobot_DQN.ipynb)
 - [Cartpole Actor-Critic](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/CS6700-Reinforcement-Learning/Assignments/Cartpole_Actor-Critic.ipynb)
 - [Taxi SMDP Intra-Option Q-learning](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/CS6700-Reinforcement-Learning/Assignments/Taxi_Qlearning.ipynb)
