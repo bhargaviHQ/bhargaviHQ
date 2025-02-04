@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ## Project Index
 
 ### Deep Learning & RL Projects
+- [Comparative Analysis of BART, T5, and PEGASUS for Abstract Summarization using STS](https://github.com/bhargaviHQ/arxiv-ai-digest)
 - [RAG LLM Assistant for E-Commerce Data Using Snowflake Cortex](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex) 
 - [NLP Sentiment Analysis with Web Scraping of Articles from TechCrunch](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch) 
 - [Acrobot DQN](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/CS6700-Reinforcement-Learning/Assignments/Acrobot_DQN.ipynb)
