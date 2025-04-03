@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 -->
 ## Project Index
 
+### Agentic AI
+- [Multi-Agent Systems for Disaster Response](https://github.com/bhargaviHQ/multiagent-ai-disaster-response)
+- 
 ### Deep Learning & RL Projects
 - [Comparative Analysis of BART, T5, and PEGASUS for Abstract Summarization using STS](https://github.com/bhargaviHQ/arxiv-ai-digest)
 - [RAG LLM Assistant for E-Commerce Data Using Snowflake Cortex](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex) 
