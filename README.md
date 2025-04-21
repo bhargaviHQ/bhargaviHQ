@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 ## Project Index
 
 ### Agentic AI
-- [Multi-Agent Systems for Disaster Response](https://github.com/bhargaviHQ/multiagent-ai-disaster-response)
 - [AlmostSQL: Agent-based MySQL query system with natural language support and revert options](https://github.com/bhargaviHQ/almostsql/)
+- [Multi-Agent Systems for Disaster Response](https://github.com/bhargaviHQ/multiagent-ai-disaster-response)
   
 ### Deep Learning & RL Projects
 - [Comparative Analysis of BART, T5, and PEGASUS for Abstract Summarization using STS](https://github.com/bhargaviHQ/arxiv-ai-digest)
