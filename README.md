@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## Project Index
 
 ### Agentic AI
-- [A VS Code extension that uses AI to explain selected code snippets via hover](https://github.com/bhargaviHQ/inline-code-explainer) 
+- [Inline code explainer: VS Code extension using AI to explain code](https://github.com/bhargaviHQ/inline-code-explainer) 
 - [AlmostSQL: Agent-based MySQL query system with natural language support and revert options](https://github.com/bhargaviHQ/almostsql/)
 - [Multi-Agent Systems for Disaster Response](https://github.com/bhargaviHQ/multiagent-ai-disaster-response)
   
