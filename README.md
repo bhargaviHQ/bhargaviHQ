@@ -64,8 +64,3 @@
 
 ---
 
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargaviHQ&show_icons=true&theme=dark&hide=issues,contribs&hide_border=true)](https://github.com/bhargaviHQ)&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargaviHQ&layout=compact&theme=dark&hide_border=true)](https://github.com/bhargaviHQ)
-
-</div>
