@@ -1,57 +1,71 @@
-<!--
-**bhargaviHQ/bhargaviHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Project Index
+<div align="center">
 
-### Agentic AI
-- [Inline code explainer: VS Code extension using AI to explain code](https://github.com/bhargaviHQ/inline-code-explainer) 
-- [AlmostSQL: Agent-based MySQL query system with natural language support and revert options](https://github.com/bhargaviHQ/almostsql/)
-- [Multi-Agent Systems for Disaster Response](https://github.com/bhargaviHQ/multiagent-ai-disaster-response)
-  
-### Deep Learning & RL Projects
-- [Comparative Analysis of BART, T5, and PEGASUS for Abstract Summarization using STS](https://github.com/bhargaviHQ/arxiv-ai-digest)
-- [RAG LLM Assistant for E-Commerce Data Using Snowflake Cortex](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex) 
-- [NLP Sentiment Analysis with Web Scraping of Articles from TechCrunch](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch) 
-- [Acrobot DQN](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/CS6700-Reinforcement-Learning/Assignments/Acrobot_DQN.ipynb)
-- [Cartpole Actor-Critic](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/CS6700-Reinforcement-Learning/Assignments/Cartpole_Actor-Critic.ipynb)
-- [Taxi SMDP Intra-Option Q-learning](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/CS6700-Reinforcement-Learning/Assignments/Taxi_Qlearning.ipynb)
+# Bhargavi
 
-### Data Engineering Projects
-- [MapReduce Longest Word Example](https://github.com/bhargaviHQ/data-engineering-dev/tree/main/MapReduce)
-- [Spark Online Retail Project with UCI Dataset](https://github.com/bhargaviHQ/data-engineering-dev/tree/main/pyspark-online-retail)
-- [Docker Projects](https://github.com/bhargaviHQ/docker-projects/tree/main)
-- [Data Engineering Pipelines with Pandas on Snowflake](https://github.com/bhargaviHQ/Pandas-Snowflake-Customer-Profile-Pipeline)
-- [Airflow ETL Pipeline Using BigQuery](https://github.com/bhargaviHQ/airflow-data-pipelines)
+### Data & ML Engineer · Agentic AI · LLMs · Data Engineering
 
+*Building scalable data pipelines, intelligent agents, and production-ready ML systems.*
 
-### Visualization and Analysis Projects
-- [EDA](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/Visualization/eda-dataset.ipynb)
-- [Iris Flower Classification](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/Iris_Flower_Classification.ipynb)
-- [Spotify Analysis](https://github.com/bhargaviHQ/ml-algorithms-playground/tree/main/spotify-analysis)
-- [Santander Product Recommendation Using RFM Analysis](https://github.com/bhargaviHQ/ml-algorithms-playground/blob/main/Santander_Product_Recommendation.ipynb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhargavihq.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://bhargaviHQ.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-bhargaviHQ-181717?style=flat-square&logo=github)](https://github.com/bhargaviHQ)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargaviHQ&show_icons=true&theme=dark&hide=issues,contribs)](https://github.com/bhargaviHQ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargaviHQ&layout=compact)](https://github.com/bhargaviHQ)
+</div>
 
+---
 
-### Skills
+## 🚀 Featured Projects
 
-**Data Engineering** 🛠️: 
-- Data modeling, Data Warehousing, System Design, Hadoop, MapReduce, Spark, Hive, HBase, Kafka, Airflow, Kubernetes, Docker, AWS (Glue, EMR, S3, RDS, DynamoDB, Redshift), Snowflake, Databricks, Google Cloud Platform, BigQuery.
-  
-**Data Science & Analytics 📊:**
-- <ins>Programming & Scripting:</ins> Python (TensorFlow, PyTorch, Scikit-learn), Java, Scala, ReactJS, PostgreSQL, SQL, R, NoSQL, Excel, Jupyter Notebooks.
-- <ins>Machine Learning & Statistical Modeling:</ins> Supervised Learning, Unsupervised Learning, Regression, Classification, Time Series, Deep Learning, Reinforcement learning, NLP, Model Tuning, Optimization.
-- <ins>Data Visualization & Cloud:</ins> AWS, GCP, Azure, Power BI, Tableau, Looker, Python(Matplotlib, Seaborn, Plotly), Streamlit.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**AlmostSQL**](https://github.com/bhargaviHQ/almostsql) | Agent-based natural language → MySQL system with autonomous error recovery and safe revert options — reducing barrier to data access | `Python` `LLM Agents` `MySQL` `LangChain` |
+| [**Inline Code Explainer**](https://github.com/bhargaviHQ/inline-code-explainer) | VS Code extension delivering AI-powered, on-demand code explanations via hover tooltips — improving developer experience at the editor level | `TypeScript` `VS Code API` `OpenAI` |
+| [**SparkPreCheckOptimizer**](https://github.com/bhargaviHQ/SparkPreCheckOptimizer) | LLM-powered tool that recommends Spark configurations and validates inputs for Azure Data Lake & Synapse — reducing pipeline misconfiguration | `Python` `PySpark` `LLM` `Azure Synapse` |
+| [**RAG LLM Assistant (Snowflake Cortex)**](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex) | Production-grade RAG assistant using Snowflake Cortex for semantic search-enhanced e-commerce Q&A — improving answer relevance at scale | `Python` `Snowflake` `RAG` `Streamlit` |
+| [**Multi-Agent Disaster Response**](https://github.com/bhargaviHQ/multiagent-ai-disaster-response) | Coordinated multi-agent AI system using LangChain and Groq for real-time, intelligent disaster response decision-making | `Python` `LangChain` `Groq` `Multi-Agent` |
 
-**Applied Data Science📈**:
-- <ins>Data-Driven Decision Making:</ins> Predictive Analytics, Business Insights, Model Refinement, Causal Inference and Estimation.
-- <ins>Statistical Analysis:</ins> Hypothesis Testing, A/B Testing, Experimental Design, Predictive Modeling, Cross-Validation, Bias-Variance Tradeoff.
+---
+
+## 🆕 Recent Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Data Pipeline CI/CD Demo**](https://github.com/bhargaviHQ/data-pipeline-actions-demo) | End-to-end data engineering project with GitHub Actions CI/CD, Python ETL, and automated test coverage — demonstrating production pipeline reliability | `Python` `GitHub Actions` `ETL` |
+| [**Finance Simulator with Reasoning**](https://github.com/bhargaviHQ/finance-simulator-with-reasoning) | Financial simulation engine augmented with LLM reasoning for scenario analysis and decision support | `Python` `LLM` `Finance` |
+| [**Stock Agentic AI**](https://github.com/bhargaviHQ/stock-agentic-ai) | Agentic AI system for autonomous stock research and investment decision support | `JavaScript` `Agents` `Finance` |
+| [**BART Fine-Tuning on XSum**](https://github.com/bhargaviHQ/finetuning-xsum-bart) | Rigorous comparison of few-shot vs. full fine-tuning on `facebook/bart-large` using XSum — evaluated with ROUGE and BLEU metrics | `Python` `HuggingFace` `BART` `NLP` |
+| [**ArXiv AI Digest**](https://github.com/bhargaviHQ/arxiv-ai-digest) | Automated ArXiv paper scraper with LLM-generated summaries — accelerating research discovery | `Python` `LLM` `NLP` `Streamlit` |
+
+---
+
+## 🏗️ Data Engineering
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Airflow ETL Pipeline (BigQuery)**](https://github.com/bhargaviHQ/airflow-data-pipelines) | Orchestrated, fault-tolerant ETL pipelines using Airflow with BigQuery as the analytical data warehouse | `Python` `Airflow` `BigQuery` `GCP` |
+| [**Pandas on Snowflake Pipeline**](https://github.com/bhargaviHQ/Pandas-Snowflake-Customer-Profile-Pipeline) | Scalable customer profile pipeline using Pandas API on Snowflake — enabling cloud-native data transformation | `Python` `Snowflake` `Pandas` |
+| [**PySpark Online Retail Analytics**](https://github.com/bhargaviHQ/data-engineering-dev/tree/main/pyspark-online-retail) | Large-scale distributed retail analytics processing UCI dataset with PySpark | `Scala` `PySpark` `Hadoop` |
+| [**NLP Sentiment Pipeline**](https://github.com/bhargaviHQ/nlp-sentiment-scraping-techcrunch) | End-to-end NLP pipeline: automated TechCrunch scraping → sentiment classification and trend analysis | `Python` `NLP` `BeautifulSoup` |
+
+---
+
+## 🧠 Skills & Focus Areas
+
+**Languages:** Python · TypeScript · Java · Scala · SQL · R
+
+**Agentic AI & LLMs:** LangChain · RAG · Multi-Agent Systems · Prompt Engineering · HuggingFace · Fine-Tuning · OpenAI
+
+**Data Engineering:** Spark · Airflow · Kafka · Hadoop · MapReduce · ETL/ELT · dbt · Hive
+
+**Cloud & Infrastructure:** AWS (Glue · EMR · S3 · Redshift) · GCP (BigQuery) · Snowflake · Azure Synapse · Databricks · Docker · Kubernetes
+
+**ML & Deep Learning:** PyTorch · TensorFlow · Scikit-learn · Reinforcement Learning · NLP · A/B Testing · Statistical Modeling
+
+**Developer Tooling:** GitHub Actions · VS Code Extensions · Streamlit · Power BI · Tableau
+
+---
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhargaviHQ&show_icons=true&theme=dark&hide=issues,contribs&hide_border=true)](https://github.com/bhargaviHQ)&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargaviHQ&layout=compact&theme=dark&hide_border=true)](https://github.com/bhargaviHQ)
+
+</div>
