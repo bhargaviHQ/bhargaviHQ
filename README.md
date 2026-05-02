@@ -15,11 +15,12 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**AlmostSQL**](https://github.com/bhargaviHQ/almostsql) | Agent-based natural language → MySQL system with autonomous error recovery and safe revert options — reducing barrier to data access | `Python` `LLM Agents` `MySQL` `LangChain` |
+| [**GDELT Vector Stream**](https://github.com/bhargaviHQ/gdelt-vector-stream) | Real-time GDELT news event ingestion pipeline with vector embeddings stored in Pinecone and a RAG-powered analyst — streaming global news intelligence at scale | `Python` `RAG` `Pinecone` `HuggingFace` `FastAPI` |
 | [**Inline Code Explainer**](https://github.com/bhargaviHQ/inline-code-explainer) | VS Code extension delivering AI-powered, on-demand code explanations via hover tooltips — improving developer experience at the editor level | `TypeScript` `VS Code API` `OpenAI` |
 | [**SparkPreCheckOptimizer**](https://github.com/bhargaviHQ/SparkPreCheckOptimizer) | LLM-powered tool that recommends Spark configurations and validates inputs for Azure Data Lake & Synapse — reducing pipeline misconfiguration | `Python` `PySpark` `LLM` `Azure Synapse` |
-| [**RAG LLM Assistant (Snowflake Cortex)**](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex) | Production-grade RAG assistant using Snowflake Cortex for semantic search-enhanced e-commerce Q&A — improving answer relevance at scale | `Python` `Snowflake` `RAG` `Streamlit` |
+| [**AlmostSQL**](https://github.com/bhargaviHQ/almostsql) | Agent-based natural language → MySQL system with autonomous error recovery and safe revert options — reducing barrier to data access | `Python` `LLM Agents` `MySQL` `LangChain` |
 | [**Multi-Agent Disaster Response**](https://github.com/bhargaviHQ/multiagent-ai-disaster-response) | Coordinated multi-agent AI system using LangChain and Groq for real-time, intelligent disaster response decision-making | `Python` `LangChain` `Groq` `Multi-Agent` |
+| [**RAG LLM Assistant (Snowflake Cortex)**](https://github.com/bhargaviHQ/rag-llm-assistant-with-snowflake-cortex) | Production-grade RAG assistant using Snowflake Cortex for semantic search-enhanced e-commerce Q&A — improving answer relevance at scale | `Python` `Snowflake` `RAG` `Streamlit` |
 
 ---
 
