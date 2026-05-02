@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -24,7 +24,7 @@
 
 ---
 
-## 🆕 Recent Projects
+## Recent Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -36,7 +36,7 @@
 
 ---
 
-## 🏗️ Data Engineering
+## Data Engineering
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -47,7 +47,7 @@
 
 ---
 
-## 🧠 Skills & Focus Areas
+## Skills & Focus Areas
 
 **Languages:** Python · TypeScript · Java · Scala · SQL · R
 
