@@ -15,6 +15,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Flink OpenSky Vector Stream**](https://github.com/bhargaviHQ/flink-opensky-vector-stream) | Event-driven pipeline using Apache Flink and Kafka to process unbounded ADS-B telemetry for real-time aviation spatial analytics and anomaly detection | `Java` `Apache Flink` `Kafka` `OpenSky` |
 | [**GDELT Vector Stream**](https://github.com/bhargaviHQ/gdelt-vector-stream) | Real-time GDELT news event ingestion pipeline with vector embeddings stored in Pinecone and a RAG-powered analyst — streaming global news intelligence at scale | `Python` `RAG` `Pinecone` `HuggingFace` `FastAPI` |
 | [**Inline Code Explainer**](https://github.com/bhargaviHQ/inline-code-explainer) | VS Code extension delivering AI-powered, on-demand code explanations via hover tooltips — improving developer experience at the editor level | `TypeScript` `VS Code API` `OpenAI` |
 | [**SparkPreCheckOptimizer**](https://github.com/bhargaviHQ/SparkPreCheckOptimizer) | LLM-powered tool that recommends Spark configurations and validates inputs for Azure Data Lake & Synapse — reducing pipeline misconfiguration | `Python` `PySpark` `LLM` `Azure Synapse` |
@@ -28,7 +29,6 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Flink OpenSky Vector Stream**](https://github.com/bhargaviHQ/flink-opensky-vector-stream) | Event-driven pipeline using Apache Flink and Kafka to process unbounded ADS-B telemetry for real-time aviation spatial analytics and anomaly detection | `Java` `Apache Flink` `Kafka` `OpenSky` |
 | [**Data Pipeline CI/CD Demo**](https://github.com/bhargaviHQ/data-pipeline-actions-demo) | End-to-end data engineering project with GitHub Actions CI/CD, Python ETL, and automated test coverage — demonstrating production pipeline reliability | `Python` `GitHub Actions` `ETL` |
 | [**Finance Simulator with Reasoning**](https://github.com/bhargaviHQ/finance-simulator-with-reasoning) | Financial simulation engine augmented with LLM reasoning for scenario analysis and decision support | `Python` `LLM` `Finance` |
 | [**Stock Agentic AI**](https://github.com/bhargaviHQ/stock-agentic-ai) | Agentic AI system for autonomous stock research and investment decision support | `JavaScript` `Agents` `Finance` |
