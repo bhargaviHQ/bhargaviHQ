@@ -28,6 +28,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Flink OpenSky Vector Stream**](https://github.com/bhargaviHQ/flink-opensky-vector-stream) | Event-driven pipeline using Apache Flink and Kafka to process unbounded ADS-B telemetry for real-time aviation spatial analytics and anomaly detection | `Java` `Apache Flink` `Kafka` `OpenSky` |
 | [**Data Pipeline CI/CD Demo**](https://github.com/bhargaviHQ/data-pipeline-actions-demo) | End-to-end data engineering project with GitHub Actions CI/CD, Python ETL, and automated test coverage — demonstrating production pipeline reliability | `Python` `GitHub Actions` `ETL` |
 | [**Finance Simulator with Reasoning**](https://github.com/bhargaviHQ/finance-simulator-with-reasoning) | Financial simulation engine augmented with LLM reasoning for scenario analysis and decision support | `Python` `LLM` `Finance` |
 | [**Stock Agentic AI**](https://github.com/bhargaviHQ/stock-agentic-ai) | Agentic AI system for autonomous stock research and investment decision support | `JavaScript` `Agents` `Finance` |
@@ -62,4 +63,3 @@
 **Developer Tooling:** GitHub Actions · VS Code Extensions · Streamlit · Power BI · Tableau
 
 ---
-
