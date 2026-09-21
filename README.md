@@ -7,6 +7,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-bhargavihq.github.io-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://bhargaviHQ.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-bhargaviHQ-181717?style=flat-square&logo=github)](https://github.com/bhargaviHQ)
 
+**Contributor to [Ibis](https://github.com/ibis-project/ibis)** — the portable dataframe library used across the modern data stack.
+Also actively contributing to [Polars](https://github.com/pola-rs/polars) and [dbt-duckdb](https://github.com/duckdb/dbt-duckdb).
+
 </div>
 
 ---
