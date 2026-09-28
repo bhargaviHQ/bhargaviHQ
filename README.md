@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-bhargaviHQ-181717?style=flat-square&logo=github)](https://github.com/bhargaviHQ)
 
 **Contributor to [Ibis](https://github.com/ibis-project/ibis)** — the portable dataframe library used across the modern data stack.
-Also actively contributing to [Polars](https://github.com/pola-rs/polars) and [dbt-duckdb](https://github.com/duckdb/dbt-duckdb).
+Also actively contributing to [Polars](https://github.com/pola-rs/polars).
 
 </div>
 
@@ -18,12 +18,11 @@ Also actively contributing to [Polars](https://github.com/pola-rs/polars) and [d
 
 | Project | Contribution | Status |
 |---------|--------------|--------|
-| [**Ibis**](https://github.com/ibis-project/ibis) | [Fix `RECURSIVE` CTE handling when rebuilding `WITH` clauses in `.sql()`](https://github.com/ibis-project/ibis/pull/12041) | In Review |
-| [**Ibis**](https://github.com/ibis-project/ibis) | [Fix array/struct null handling across PySpark, Polars, DataFusion & Postgres backends](https://github.com/ibis-project/ibis/pull/12122) | In Review |
-| [**Ibis**](https://github.com/ibis-project/ibis) | [Add multi-column support to `upsert()` for all SQL backends](https://github.com/ibis-project/ibis/pull/12123) | In Review |
+| [**Ibis**](https://github.com/ibis-project/ibis) | [Add multi-column `on` support to `upsert()` for SQL backends](https://github.com/ibis-project/ibis/pull/12123) | ✅ Merged |
 | [**Ibis**](https://github.com/ibis-project/ibis) | [Add test coverage for `create_table` with a database tuple](https://github.com/ibis-project/ibis/pull/12013) | ✅ Merged |
+| [**Ibis**](https://github.com/ibis-project/ibis) | [Fix `RECURSIVE` CTE handling when rebuilding `WITH` clauses in `.sql()`](https://github.com/ibis-project/ibis/pull/12041) | In Review |
+| [**Ibis**](https://github.com/ibis-project/ibis) | [Normalize null array elements in pandas conversion, fixing array/struct results on PySpark, Polars, DataFusion & Postgres](https://github.com/ibis-project/ibis/pull/12122) | In Review |
 | [**Polars**](https://github.com/pola-rs/polars) | [Fix schema mismatch in `list.set_operation` with mismatched element dtypes](https://github.com/pola-rs/polars/pull/29116) | In Review |
-| [**dbt-duckdb**](https://github.com/duckdb/dbt-duckdb) | [Fix foreign key resolution against attached-database aliases](https://github.com/duckdb/dbt-duckdb/pull/850) | In Review |
 
 ---
 
