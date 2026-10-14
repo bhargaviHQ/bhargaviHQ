@@ -19,9 +19,11 @@ Also actively contributing to [Polars](https://github.com/pola-rs/polars).
 | Project | Contribution | Status |
 |---------|--------------|--------|
 | [**Ibis**](https://github.com/ibis-project/ibis) | [Add multi-column `on` support to `upsert()` for SQL backends](https://github.com/ibis-project/ibis/pull/12123) | ✅ Merged |
+| [**Ibis**](https://github.com/ibis-project/ibis) | [Normalize null array elements in pandas conversion, fixing array/struct results on PySpark, Polars, DataFusion & Postgres](https://github.com/ibis-project/ibis/pull/12122) | ✅ Merged |
 | [**Ibis**](https://github.com/ibis-project/ibis) | [Add test coverage for `create_table` with a database tuple](https://github.com/ibis-project/ibis/pull/12013) | ✅ Merged |
 | [**Ibis**](https://github.com/ibis-project/ibis) | [Fix `RECURSIVE` CTE handling when rebuilding `WITH` clauses in `.sql()`](https://github.com/ibis-project/ibis/pull/12041) | In Review |
-| [**Ibis**](https://github.com/ibis-project/ibis) | [Normalize null array elements in pandas conversion, fixing array/struct results on PySpark, Polars, DataFusion & Postgres](https://github.com/ibis-project/ibis/pull/12122) | In Review |
+| [**Ibis**](https://github.com/ibis-project/ibis) | [Support non-string and null values in `pivot_wider` `names_from`](https://github.com/ibis-project/ibis/pull/12142) | In Review |
+| [**Ibis**](https://github.com/ibis-project/ibis) | [Render bare `STDEV`/`STDDEV` as sample standard deviation on MSSQL & Oracle](https://github.com/ibis-project/ibis/pull/12161) | In Review |
 | [**Polars**](https://github.com/pola-rs/polars) | [Fix schema mismatch in `list.set_operation` with mismatched element dtypes](https://github.com/pola-rs/polars/pull/29116) | In Review |
 
 ---
